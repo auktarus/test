@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://www.instagram.com/p/Bn1nJz_nrmr/?taken-by=joschki_)
+[Link](url) and ![Image](https://github.com/auktarus/test/blob/master/Eisbergmodell.png?raw=true)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
